@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.detail-restaurant-content-menu {
+  list-style: none;
+  padding: 0;
+}
